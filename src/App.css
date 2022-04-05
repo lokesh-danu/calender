@@ -1,0 +1,9 @@
+.App{
+    background-color: #ECF0F3;;
+}
+.rbc-agenda-time-cell{
+    visibility: hidden;
+}
+.calendar-tiles{
+    border: none;
+}

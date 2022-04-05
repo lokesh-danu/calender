@@ -1,0 +1,13 @@
+.bottom-bar{
+    height: 100px;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    display: flex;
+    background-color: #ECF0F3;
+    height: 8vh;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+}
